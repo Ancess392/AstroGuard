@@ -1,0 +1,49 @@
+{
+  "accession": "OSD-569",
+  "title": "Whole Blood Measurements from the SpaceX Inspiration4 Mission (RNA-seq, epitranscriptome, WGS, clonal hematopoiesis, CBC)",
+  "studyUrl": "https://osdr.nasa.gov/bio/repo/data/studies/OSD-569",
+  "sourceFile": "LSDS-7_Complete_Blood_Count_CBC_TRANSFORMED.csv",
+  "fileUrl": "https://osdr.nasa.gov/geode-py/ws/studies/OSD-569/download?source=datamanager&file=LSDS-7_Complete_Blood_Count_CBC_TRANSFORMED.csv",
+  "verifiedOn": "2026-11-14",
+  "sha256": "32e4f9c97d3b636b5d5c2e72dab8c4d3319dee64c437508b092dad04603b2b8f",
+  "measurement": "Hematocrit",
+  "unit": "%",
+  "aggregation": "Arithmetic mean across four crew members at each collection point, rounded to two decimal places; no imputation or exclusions.",
+  "rows": [
+    {
+      "point": "L-92",
+      "n": 4,
+      "mean": 43.28
+    },
+    {
+      "point": "L-44",
+      "n": 4,
+      "mean": 43.88
+    },
+    {
+      "point": "L-3",
+      "n": 4,
+      "mean": 42.75
+    },
+    {
+      "point": "R+1",
+      "n": 4,
+      "mean": 42.43
+    },
+    {
+      "point": "R+45",
+      "n": 4,
+      "mean": 43.43
+    },
+    {
+      "point": "R+82",
+      "n": 4,
+      "mean": 43.23
+    },
+    {
+      "point": "R+194",
+      "n": 4,
+      "mean": 42.13
+    }
+  ]
+}
